@@ -28,3 +28,10 @@
  .content{
   flex: 1;
  }
+
+ .unauthorized {
+  padding: 2rem;
+  text-align: center;
+  font-size: 1.2rem;
+  color: #e63946;
+}
